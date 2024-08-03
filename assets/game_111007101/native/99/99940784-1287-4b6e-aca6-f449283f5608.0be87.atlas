@@ -1,0 +1,208 @@
+
+dajiang-yanhua.jpg
+size: 1966,2028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanhuatexiao/fire_work_01
+  rotate: false
+  xy: 17, 1981
+  size: 46, 46
+  orig: 540, 666
+  offset: 248, 486
+  index: -1
+yanhuatexiao/fire_work_03
+  rotate: true
+  xy: 65, 1955
+  size: 72, 80
+  orig: 540, 666
+  offset: 234, 469
+  index: -1
+yanhuatexiao/fire_work_04
+  rotate: true
+  xy: 147, 1941
+  size: 86, 98
+  orig: 540, 666
+  offset: 227, 459
+  index: -1
+yanhuatexiao/fire_work_05
+  rotate: true
+  xy: 247, 1925
+  size: 102, 114
+  orig: 540, 666
+  offset: 218, 449
+  index: -1
+yanhuatexiao/fire_work_08
+  rotate: true
+  xy: 723, 1875
+  size: 152, 166
+  orig: 540, 666
+  offset: 193, 416
+  index: -1
+yanhuatexiao/fire_work_09
+  rotate: true
+  xy: 891, 1857
+  size: 170, 184
+  orig: 540, 666
+  offset: 184, 404
+  index: -1
+yanhuatexiao/fire_work_14
+  rotate: true
+  xy: 1077, 1771
+  size: 256, 270
+  orig: 540, 666
+  offset: 140, 339
+  index: -1
+yanhuatexiao/fire_work_15
+  rotate: true
+  xy: 1349, 1761
+  size: 266, 292
+  orig: 540, 666
+  offset: 130, 324
+  index: -1
+yanhuatexiao/fire_work_16
+  rotate: true
+  xy: 1643, 1745
+  size: 282, 306
+  orig: 540, 666
+  offset: 121, 309
+  index: -1
+yanhuatexiao/fire_work_18
+  rotate: true
+  xy: 1, 1605
+  size: 318, 340
+  orig: 540, 666
+  offset: 102, 279
+  index: -1
+yanhuatexiao/fire_work_19
+  rotate: true
+  xy: 343, 1575
+  size: 338, 354
+  orig: 540, 666
+  offset: 91, 265
+  index: -1
+yanhuatexiao/fire_work_21
+  rotate: false
+  xy: 699, 1465
+  size: 374, 390
+  orig: 540, 666
+  offset: 73, 229
+  index: -1
+yanhuatexiao/fire_work_22
+  rotate: true
+  xy: 1, 1181
+  size: 392, 408
+  orig: 540, 666
+  offset: 64, 211
+  index: -1
+yanhuatexiao/fire_work_24
+  rotate: true
+  xy: 411, 1035
+  size: 428, 450
+  orig: 540, 666
+  offset: 46, 169
+  index: -1
+yanhuatexiao/fire_work_25
+  rotate: true
+  xy: 1405, 935
+  size: 450, 472
+  orig: 540, 666
+  offset: 35, 147
+  index: -1
+yanhuatexiao/fire_work_26
+  rotate: true
+  xy: 1, 569
+  size: 464, 482
+  orig: 540, 666
+  offset: 25, 136
+  index: -1
+yanhuatexiao/fire_work_27
+  rotate: true
+  xy: 1, 9
+  size: 486, 498
+  orig: 540, 666
+  offset: 19, 102
+  index: -1
+yanhuatexiao/fire_work_28
+  rotate: true
+  xy: 501, 1
+  size: 494, 510
+  orig: 540, 666
+  offset: 8, 90
+  index: -1
+yanhuatexiao/fire_work_32
+  rotate: false
+  xy: 1027, 465
+  size: 540, 468
+  orig: 540, 666
+  offset: 0, 76
+  index: -1
+yanhuatexiao/fire_work_33
+  rotate: false
+  xy: 485, 497
+  size: 540, 464
+  orig: 540, 666
+  offset: 0, 75
+  index: -1
+yanhuatexiao/fire_work_37
+  rotate: false
+  xy: 863, 963
+  size: 540, 440
+  orig: 540, 666
+  offset: 0, 69
+  index: -1
+yanhuatexiao/fire_work_38
+  rotate: false
+  xy: 1520, 1387
+  size: 445, 356
+  orig: 540, 666
+  offset: 95, 150
+  index: -1
+yanhuatexiao/fire_work_39
+  rotate: false
+  xy: 1075, 1405
+  size: 443, 354
+  orig: 540, 666
+  offset: 97, 147
+  index: -1
+yanhuatexiao/fire_work_40
+  rotate: false
+  xy: 363, 1915
+  size: 358, 112
+  orig: 540, 666
+  offset: 95, 357
+  index: -1
+yanhuatexiao/fire_work_41
+  rotate: false
+  xy: 1, 2013
+  size: 14, 14
+  orig: 540, 666
+  offset: 441, 448
+  index: -1
+
+dajiang-yanhua2.jpg
+size: 1592,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanhuatexiao/fire_work_29
+  rotate: false
+  xy: 539, 3
+  size: 526, 520
+  orig: 540, 666
+  offset: 0, 79
+  index: -1
+yanhuatexiao/fire_work_30
+  rotate: false
+  xy: 1067, 1
+  size: 524, 522
+  orig: 540, 666
+  offset: 0, 78
+  index: -1
+yanhuatexiao/fire_work_31
+  rotate: false
+  xy: 1, 3
+  size: 536, 520
+  orig: 540, 666
+  offset: 0, 76
+  index: -1

@@ -1,0 +1,118 @@
+
+symbol_skull.png
+size: 1842,1496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eyeblack_L
+  rotate: true
+  xy: 814, 515
+  size: 151, 140
+  orig: 151, 140
+  offset: 0, 0
+  index: -1
+eyeblack_R
+  rotate: true
+  xy: 731, 8
+  size: 241, 214
+  orig: 249, 221
+  offset: 3, 3
+  index: -1
+eyesocket_L_B
+  rotate: false
+  xy: 0, 40
+  size: 214, 204
+  orig: 228, 214
+  offset: 0, 10
+  index: -1
+eyesocket_L_T
+  rotate: true
+  xy: 216, 35
+  size: 209, 162
+  orig: 217, 165
+  offset: 0, 3
+  index: -1
+eyesocket_R_B
+  rotate: false
+  xy: 438, 19
+  size: 291, 230
+  orig: 291, 235
+  offset: 0, 5
+  index: -1
+eyesocket_R_T
+  rotate: false
+  xy: 947, 0
+  size: 295, 193
+  orig: 298, 193
+  offset: 3, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 1772, 1023
+  size: 25, 473
+  orig: 25, 473
+  offset: 0, 0
+  index: -1
+fx_particles
+  rotate: true
+  xy: 814, 285
+  size: 228, 129
+  orig: 228, 144
+  offset: 0, 0
+  index: -1
+fx_ring_00
+  rotate: true
+  xy: 965, 687
+  size: 809, 805
+  orig: 809, 805
+  offset: 0, 0
+  index: -1
+fx_skull_cloud_01
+  rotate: false
+  xy: 1485, 310
+  size: 357, 375
+  orig: 410, 413
+  offset: 14, 18
+  index: -1
+fx_skull_cloud_02
+  rotate: true
+  xy: 0, 246
+  size: 420, 436
+  orig: 480, 480
+  offset: 17, 17
+  index: -1
+fx_skull_glow_00
+  rotate: true
+  xy: 0, 668
+  size: 828, 963
+  orig: 959, 963
+  offset: 64, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 1485, 11
+  size: 353, 297
+  orig: 364, 312
+  offset: 11, 0
+  index: -1
+skull
+  rotate: false
+  xy: 965, 195
+  size: 518, 490
+  orig: 518, 490
+  offset: 0, 0
+  index: -1
+skull_eye
+  rotate: false
+  xy: 1244, 1
+  size: 195, 192
+  orig: 221, 221
+  offset: 15, 11
+  index: -1
+skull_glow
+  rotate: true
+  xy: 438, 251
+  size: 415, 374
+  orig: 462, 417
+  offset: 4, 43
+  index: -1

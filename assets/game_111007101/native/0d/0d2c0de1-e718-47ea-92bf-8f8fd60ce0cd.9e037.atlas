@@ -1,0 +1,55 @@
+
+curtain.png
+size: 921,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backdrop_curtain_a
+  rotate: true
+  xy: 2, 298
+  size: 88, 702
+  orig: 88, 702
+  offset: 0, 0
+  index: -1
+backdrop_curtain_b
+  rotate: true
+  xy: 2, 388
+  size: 107, 702
+  orig: 107, 702
+  offset: 0, 0
+  index: -1
+curtain_L
+  rotate: true
+  xy: 2, 116
+  size: 180, 558
+  orig: 180, 564
+  offset: 0, 6
+  index: -1
+curtain_L_gradient
+  rotate: false
+  xy: 829, 218
+  size: 90, 277
+  orig: 90, 277
+  offset: 0, 0
+  index: -1
+curtain_L_sha
+  rotate: false
+  xy: 562, 23
+  size: 101, 273
+  orig: 101, 273
+  offset: 0, 0
+  index: -1
+curtain_top
+  rotate: false
+  xy: 2, 2
+  size: 524, 112
+  orig: 524, 112
+  offset: 0, 0
+  index: -1
+curtain_top_sha
+  rotate: true
+  xy: 706, 118
+  size: 377, 121
+  orig: 377, 121
+  offset: 0, 0
+  index: -1

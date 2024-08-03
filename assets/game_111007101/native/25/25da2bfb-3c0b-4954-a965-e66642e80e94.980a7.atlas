@@ -1,0 +1,132 @@
+
+win.png
+size: 483,712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_128
+  rotate: true
+  xy: 2, 6
+  size: 43, 42
+  orig: 157, 157
+  offset: 59, 19
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_129
+  rotate: true
+  xy: 408, 2
+  size: 54, 58
+  orig: 157, 157
+  offset: 51, 19
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_130
+  rotate: true
+  xy: 390, 174
+  size: 70, 73
+  orig: 157, 157
+  offset: 38, 20
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_131
+  rotate: false
+  xy: 393, 246
+  size: 84, 79
+  orig: 157, 157
+  offset: 32, 21
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_132
+  rotate: false
+  xy: 393, 524
+  size: 88, 82
+  orig: 157, 157
+  offset: 30, 21
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_133
+  rotate: true
+  xy: 393, 327
+  size: 93, 85
+  orig: 157, 157
+  offset: 26, 21
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_134
+  rotate: true
+  xy: 393, 422
+  size: 100, 85
+  orig: 157, 157
+  offset: 22, 22
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_135
+  rotate: true
+  xy: 393, 608
+  size: 102, 88
+  orig: 157, 157
+  offset: 21, 20
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_136
+  rotate: false
+  xy: 278, 128
+  size: 105, 71
+  orig: 157, 157
+  offset: 20, 38
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_137
+  rotate: false
+  xy: 278, 201
+  size: 110, 67
+  orig: 157, 157
+  offset: 17, 42
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_138
+  rotate: false
+  xy: 278, 270
+  size: 113, 66
+  orig: 157, 157
+  offset: 15, 44
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_139
+  rotate: true
+  xy: 408, 58
+  size: 114, 65
+  orig: 157, 157
+  offset: 14, 45
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_140
+  rotate: true
+  xy: 342, 10
+  size: 116, 64
+  orig: 157, 157
+  offset: 13, 46
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_141
+  rotate: true
+  xy: 278, 9
+  size: 117, 62
+  orig: 157, 157
+  offset: 13, 48
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_142
+  rotate: false
+  xy: 46, 14
+  size: 115, 35
+  orig: 157, 157
+  offset: 13, 74
+  index: -1
+cf3d22b5-26b3-491d-8660-9b529de36f81.f0de5/smoke_143
+  rotate: false
+  xy: 163, 18
+  size: 106, 31
+  orig: 157, 157
+  offset: 14, 78
+  index: -1
+dajiangdongxiao/flare_c
+  rotate: false
+  xy: 2, 51
+  size: 274, 274
+  orig: 274, 274
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubiankuang
+  rotate: true
+  xy: 2, 338
+  size: 372, 389
+  orig: 372, 389
+  offset: 0, 0
+  index: -1

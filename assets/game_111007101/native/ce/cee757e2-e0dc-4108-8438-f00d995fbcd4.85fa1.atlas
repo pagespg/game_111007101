@@ -1,0 +1,348 @@
+
+symbol_bat.png
+size: 1400,1271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_lid_B
+  rotate: false
+  xy: 2, 735
+  size: 236, 172
+  orig: 238, 172
+  offset: 2, 0
+  index: -1
+eye_lid_T
+  rotate: true
+  xy: 970, 793
+  size: 217, 198
+  orig: 217, 203
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: true
+  xy: 1170, 733
+  size: 215, 216
+  orig: 217, 221
+  offset: 0, 5
+  index: -1
+eyebrow
+  rotate: false
+  xy: 951, 1012
+  size: 221, 109
+  orig: 221, 109
+  offset: 0, 0
+  index: -1
+fx_cloud_01
+  rotate: true
+  xy: 1016, 155
+  size: 357, 375
+  orig: 410, 413
+  offset: 14, 18
+  index: -1
+fx_eye_glow
+  rotate: true
+  xy: 695, 1030
+  size: 109, 112
+  orig: 109, 112
+  offset: 0, 0
+  index: -1
+fx_glow_white
+  rotate: false
+  xy: 2, 2
+  size: 359, 359
+  orig: 389, 389
+  offset: 15, 15
+  index: -1
+fx_light_02
+  rotate: true
+  xy: 655, 156
+  size: 356, 359
+  orig: 403, 413
+  offset: 25, 25
+  index: -1
+iris
+  rotate: true
+  xy: 1174, 950
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 324, 363
+  size: 329, 291
+  orig: 329, 291
+  offset: 0, 0
+  index: -1
+mouth copy
+  rotate: false
+  xy: 494, 656
+  size: 351, 186
+  orig: 375, 242
+  offset: 17, 56
+  index: -1
+tongue
+  rotate: false
+  xy: 1147, 1123
+  size: 102, 91
+  orig: 102, 91
+  offset: 0, 0
+  index: -1
+wingL_01
+  rotate: true
+  xy: 809, 1019
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+wingL_01_finger01
+  rotate: false
+  xy: 174, 1237
+  size: 91, 32
+  orig: 91, 32
+  offset: 0, 0
+  index: -1
+wingL_01_finger02
+  rotate: true
+  xy: 2, 1248
+  size: 21, 119
+  orig: 21, 119
+  offset: 0, 0
+  index: -1
+wingL_01_finger03
+  rotate: true
+  xy: 728, 1220
+  size: 49, 189
+  orig: 49, 189
+  offset: 0, 0
+  index: -1
+wingL_01_flap01
+  rotate: true
+  xy: 1251, 1078
+  size: 98, 144
+  orig: 98, 144
+  offset: 0, 0
+  index: -1
+wingL_01_flap02
+  rotate: true
+  xy: 919, 1220
+  size: 49, 186
+  orig: 49, 189
+  offset: 0, 3
+  index: -1
+wingL_01_flap03
+  rotate: true
+  xy: 815, 1137
+  size: 81, 149
+  orig: 84, 151
+  offset: 3, 2
+  index: -1
+wingL_02
+  rotate: false
+  xy: 240, 712
+  size: 252, 189
+  orig: 259, 189
+  offset: 7, 0
+  index: -1
+wingL_03
+  rotate: true
+  xy: 546, 869
+  size: 159, 253
+  orig: 168, 256
+  offset: 2, 0
+  index: -1
+wingL_04
+  rotate: true
+  xy: 1218, 1216
+  size: 53, 108
+  orig: 56, 126
+  offset: 3, 0
+  index: -1
+wingL_04_finger01
+  rotate: true
+  xy: 267, 1230
+  size: 39, 119
+  orig: 39, 119
+  offset: 0, 0
+  index: -1
+wingL_04_finger02
+  rotate: true
+  xy: 123, 1241
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+wingL_04_finger03
+  rotate: true
+  xy: 388, 1227
+  size: 42, 154
+  orig: 42, 154
+  offset: 0, 0
+  index: -1
+wingL_04_flap01
+  rotate: true
+  xy: 2, 1183
+  size: 63, 91
+  orig: 63, 91
+  offset: 0, 0
+  index: -1
+wingL_04_flap02
+  rotate: true
+  xy: 1107, 1219
+  size: 50, 109
+  orig: 53, 112
+  offset: 0, 3
+  index: -1
+wingL_04_flap03
+  rotate: true
+  xy: 544, 1227
+  size: 42, 182
+  orig: 42, 182
+  offset: 0, 0
+  index: -1
+wingR_01
+  rotate: true
+  xy: 2, 1070
+  size: 93, 249
+  orig: 105, 249
+  offset: 0, 0
+  index: -1
+wingR_01_finger01
+  rotate: true
+  xy: 634, 1141
+  size: 77, 179
+  orig: 77, 179
+  offset: 0, 0
+  index: -1
+wingR_01_finger02
+  rotate: false
+  xy: 966, 1129
+  size: 179, 88
+  orig: 179, 88
+  offset: 0, 0
+  index: -1
+wingR_01_finger03
+  rotate: false
+  xy: 95, 1165
+  size: 207, 63
+  orig: 207, 63
+  offset: 0, 0
+  index: -1
+wingR_01_flap01
+  rotate: true
+  xy: 304, 1155
+  size: 70, 161
+  orig: 77, 168
+  offset: 7, 7
+  index: -1
+wingR_01_flap02
+  rotate: true
+  xy: 801, 844
+  size: 166, 167
+  orig: 175, 172
+  offset: 9, 5
+  index: -1
+wingR_01_flap03
+  rotate: false
+  xy: 2, 931
+  size: 193, 137
+  orig: 193, 137
+  offset: 0, 0
+  index: -1
+wingR_02
+  rotate: true
+  xy: 2, 423
+  size: 287, 320
+  orig: 287, 326
+  offset: 0, 6
+  index: -1
+wingR_03
+  rotate: true
+  xy: 847, 514
+  size: 277, 299
+  orig: 277, 301
+  offset: 0, 0
+  index: -1
+wingR_04
+  rotate: true
+  xy: 253, 1055
+  size: 98, 200
+  orig: 98, 200
+  offset: 0, 0
+  index: -1
+wingR_04_finger01
+  rotate: true
+  xy: 1328, 1178
+  size: 91, 70
+  orig: 91, 70
+  offset: 0, 0
+  index: -1
+wingR_04_finger02
+  rotate: false
+  xy: 467, 1155
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+wingR_04_finger03
+  rotate: false
+  xy: 365, 903
+  size: 179, 147
+  orig: 179, 147
+  offset: 0, 0
+  index: -1
+wingR_04_flap
+  rotate: true
+  xy: 455, 1052
+  size: 101, 103
+  orig: 109, 116
+  offset: 3, 6
+  index: -1
+wingR_04_flap02
+  rotate: false
+  xy: 560, 1037
+  size: 133, 102
+  orig: 133, 102
+  offset: 0, 0
+  index: -1
+wingR_04_flap03
+  rotate: false
+  xy: 197, 909
+  size: 166, 144
+  orig: 168, 144
+  offset: 2, 0
+  index: -1
+
+symbol_bat2.png
+size: 867,881
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 424
+  size: 455, 477
+  orig: 476, 490
+  offset: 3, 13
+  index: -1
+fx_cloud_02
+  rotate: true
+  xy: 2, 2
+  size: 420, 436
+  orig: 480, 480
+  offset: 17, 17
+  index: -1
+fx_ring
+  rotate: true
+  xy: 440, 34
+  size: 388, 387
+  orig: 410, 413
+  offset: 11, 11
+  index: -1
+glow
+  rotate: false
+  xy: 481, 495
+  size: 384, 384
+  orig: 434, 424
+  offset: 25, 25
+  index: -1

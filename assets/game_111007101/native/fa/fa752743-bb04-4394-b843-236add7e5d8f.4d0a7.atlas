@@ -1,0 +1,257 @@
+
+wansheng-mfbg.png
+size: 1948,1827
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_01
+  rotate: false
+  xy: 0, 1210
+  size: 450, 302
+  orig: 450, 358
+  offset: 0, 17
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_02
+  rotate: false
+  xy: 904, 1091
+  size: 450, 310
+  orig: 450, 358
+  offset: 0, 12
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_03
+  rotate: false
+  xy: 0, 888
+  size: 450, 320
+  orig: 450, 358
+  offset: 0, 6
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_04
+  rotate: false
+  xy: 904, 767
+  size: 450, 322
+  orig: 450, 358
+  offset: 0, 3
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_05
+  rotate: false
+  xy: 452, 558
+  size: 450, 326
+  orig: 450, 358
+  offset: 0, 4
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_06
+  rotate: false
+  xy: 904, 439
+  size: 450, 326
+  orig: 450, 358
+  offset: 0, 4
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_07
+  rotate: false
+  xy: 0, 232
+  size: 450, 328
+  orig: 450, 358
+  offset: 0, 5
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_08
+  rotate: false
+  xy: 452, 224
+  size: 450, 332
+  orig: 450, 358
+  offset: 0, 2
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_09
+  rotate: false
+  xy: 904, 105
+  size: 450, 332
+  orig: 450, 358
+  offset: 0, 1
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_10
+  rotate: false
+  xy: 1356, 382
+  size: 450, 326
+  orig: 450, 358
+  offset: 0, 2
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_11
+  rotate: false
+  xy: 452, 886
+  size: 450, 320
+  orig: 450, 358
+  offset: 0, 1
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_12
+  rotate: false
+  xy: 1356, 710
+  size: 450, 324
+  orig: 450, 358
+  offset: 0, 1
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_13
+  rotate: false
+  xy: 0, 562
+  size: 450, 324
+  orig: 450, 358
+  offset: 0, 1
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_14
+  rotate: false
+  xy: 1356, 1036
+  size: 450, 318
+  orig: 450, 358
+  offset: 0, 3
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_15
+  rotate: false
+  xy: 452, 1208
+  size: 450, 304
+  orig: 450, 358
+  offset: 0, 9
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_16
+  rotate: false
+  xy: 933, 1403
+  size: 450, 300
+  orig: 450, 358
+  offset: 0, 14
+  index: -1
+db27144d-2dc0-46b2-8d40-be73d4d933cf.30c8d/aura_magic_17
+  rotate: false
+  xy: 1385, 1356
+  size: 450, 300
+  orig: 450, 358
+  offset: 0, 17
+  index: -1
+mianfeibeijingtu/bat_a_bonus_game
+  rotate: false
+  xy: 27, 1797
+  size: 77, 30
+  orig: 77, 33
+  offset: 0, 2
+  index: -1
+mianfeibeijingtu/bat_b_bonus_game
+  rotate: true
+  xy: 0, 1824
+  size: 3, 25
+  orig: 4, 25
+  offset: 1, 0
+  index: -1
+mianfeibeijingtu/cloud_a_bonus_game
+  rotate: false
+  xy: 208, 1755
+  size: 198, 72
+  orig: 198, 72
+  offset: 0, 0
+  index: -1
+mianfeibeijingtu/cloud_b_bonus_game
+  rotate: false
+  xy: 595, 1739
+  size: 238, 88
+  orig: 238, 88
+  offset: 0, 0
+  index: -1
+mianfeibeijingtu/pumpkin_a_bonus_game
+  rotate: true
+  xy: 1095, 1725
+  size: 102, 108
+  orig: 102, 108
+  offset: 0, 0
+  index: -1
+mianfeibeijingtu/pumpkin_b_bonus_game
+  rotate: false
+  xy: 485, 1740
+  size: 108, 87
+  orig: 124, 101
+  offset: 16, 2
+  index: -1
+mianfeibeijingtu/sky_b_bonus_game
+  rotate: false
+  xy: 1356, 0
+  size: 540, 380
+  orig: 540, 380
+  offset: 0, 0
+  index: -1
+mianfeibeijingtu/tendril_b_bonus_game
+  rotate: false
+  xy: 835, 1731
+  size: 126, 96
+  orig: 126, 96
+  offset: 0, 0
+  index: -1
+mianfeibeijingtu/tendril_c_bonus_game
+  rotate: false
+  xy: 0, 1569
+  size: 192, 186
+  orig: 192, 186
+  offset: 0, 0
+  index: -1
+mianfeibeijingtu/tendril_d_bonus_game
+  rotate: false
+  xy: 194, 1564
+  size: 195, 189
+  orig: 195, 189
+  offset: 0, 0
+  index: -1
+mianfeibeijingtu/tendril_e_bonus_game
+  rotate: true
+  xy: 1205, 1705
+  size: 122, 201
+  orig: 122, 201
+  offset: 0, 0
+  index: -1
+mianfeibeijingtu/tendril_f_bonus_game
+  rotate: true
+  xy: 408, 1754
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+mianfeibeijingtu/tomb_stone_a_bonus_game
+  rotate: false
+  xy: 391, 1514
+  size: 540, 215
+  orig: 540, 265
+  offset: 0, 2
+  index: -1
+mianfeibeijingtu/tomb_stone_b_bonus_game
+  rotate: false
+  xy: 1408, 1658
+  size: 540, 169
+  orig: 540, 174
+  offset: 0, 3
+  index: -1
+mianfeibeijingtu/web_a_bonus_game
+  rotate: true
+  xy: 106, 1757
+  size: 70, 100
+  orig: 84, 111
+  offset: 0, 11
+  index: -1
+mianfeibeijingtu/web_b_bonus_game
+  rotate: true
+  xy: 963, 1730
+  size: 97, 130
+  orig: 97, 132
+  offset: 0, 1
+  index: -1
+
+wansheng-mfbg2.png
+size: 1553,720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeibeijingtu/sky_a_bonus_game
+  rotate: true
+  xy: 1062, 180
+  size: 540, 491
+  orig: 540, 491
+  offset: 0, 0
+  index: -1
+mianfeibeijingtu/star_bonus_game
+  rotate: false
+  xy: 0, 0
+  size: 1060, 720
+  orig: 1061, 722
+  offset: 1, 1
+  index: -1

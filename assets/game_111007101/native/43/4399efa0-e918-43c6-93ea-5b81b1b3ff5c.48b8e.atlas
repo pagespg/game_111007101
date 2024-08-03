@@ -1,0 +1,132 @@
+
+wansheng-dajiang.png
+size: 1682,1518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9924f875-22da-4c2f-a2c1-aeab28093607.6869e/bg_glow
+  rotate: false
+  xy: 1396, 61
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+dajiangdongxiao/curtain_spotlight
+  rotate: false
+  xy: 1, 692
+  size: 756, 825
+  orig: 756, 825
+  offset: 0, 0
+  index: -1
+dajiangjinexianshikuang/bat_b
+  rotate: false
+  xy: 368, 14
+  size: 151, 75
+  orig: 151, 76
+  offset: 0, 0
+  index: -1
+dajiangjinexianshikuang/bat_b_shadow
+  rotate: false
+  xy: 205, 11
+  size: 161, 78
+  orig: 162, 78
+  offset: 0, 0
+  index: -1
+dajiangjinexianshikuang/big_win_a
+  rotate: true
+  xy: 1481, 463
+  size: 558, 173
+  orig: 558, 173
+  offset: 0, 0
+  index: -1
+dajiangjinexianshikuang/big_win_b
+  rotate: true
+  xy: 800, 1
+  size: 460, 256
+  orig: 460, 256
+  offset: 0, 0
+  index: -1
+dajiangjinexianshikuang/big_win_b_m
+  rotate: false
+  xy: 1396, 315
+  size: 283, 146
+  orig: 288, 146
+  offset: 0, 0
+  index: -1
+dajiangjinexianshikuang/mega_win_a
+  rotate: true
+  xy: 205, 91
+  size: 599, 186
+  orig: 599, 186
+  offset: 0, 0
+  index: -1
+dajiangjinexianshikuang/mega_win_b
+  rotate: false
+  xy: 951, 534
+  size: 517, 261
+  orig: 517, 261
+  offset: 0, 0
+  index: -1
+dajiangjinexianshikuang/mega_win_b_m
+  rotate: true
+  xy: 800, 478
+  size: 317, 149
+  orig: 324, 149
+  offset: 0, 0
+  index: -1
+dajiangjinexianshikuang/string
+  rotate: false
+  xy: 1, 17
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+dajiangjinexianshikuang/super_mega_win_a
+  rotate: true
+  xy: 1, 40
+  size: 650, 202
+  orig: 650, 202
+  offset: 0, 0
+  index: -1
+dajiangjinexianshikuang/super_mega_win_b
+  rotate: true
+  xy: 1058, 20
+  size: 512, 336
+  orig: 512, 341
+  offset: 0, 0
+  index: -1
+dajiangjinexianshikuang/super_mega_win_b_m
+  rotate: true
+  xy: 1481, 1023
+  size: 292, 185
+  orig: 292, 185
+  offset: 0, 0
+  index: -1
+dajiangzhaosheguangxiao/glow_c
+  rotate: false
+  xy: 1481, 1317
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+dajiangzhaosheguangxiao/lights_a
+  rotate: true
+  xy: 598, 121
+  size: 569, 200
+  orig: 569, 200
+  offset: 0, 0
+  index: -1
+dajiangzhaosheguangxiao/lights_b
+  rotate: true
+  xy: 393, 110
+  size: 580, 203
+  orig: 580, 203
+  offset: 0, 0
+  index: -1
+dajiangzhaosheguangxiao/spotlight_a
+  rotate: false
+  xy: 759, 797
+  size: 720, 720
+  orig: 722, 722
+  offset: 1, 1
+  index: -1

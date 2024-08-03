@@ -1,0 +1,111 @@
+
+symbol_spider.png
+size: 1280,451
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chelicera_L
+  rotate: false
+  xy: 1215, 216
+  size: 63, 98
+  orig: 63, 98
+  offset: 0, 0
+  index: -1
+chelicera_R
+  rotate: false
+  xy: 1118, 219
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+flare_c
+  rotate: false
+  xy: 626, 175
+  size: 274, 274
+  orig: 274, 274
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 902, 207
+  size: 242, 214
+  orig: 242, 217
+  offset: 0, 3
+  index: -1
+legL_01
+  rotate: false
+  xy: 732, 33
+  size: 203, 140
+  orig: 203, 140
+  offset: 0, 0
+  index: -1
+legL_02
+  rotate: false
+  xy: 353, 12
+  size: 210, 116
+  orig: 210, 116
+  offset: 0, 0
+  index: -1
+legL_03
+  rotate: false
+  xy: 2, 4
+  size: 172, 112
+  orig: 172, 112
+  offset: 0, 0
+  index: -1
+legL_04
+  rotate: false
+  xy: 1118, 316
+  size: 158, 133
+  orig: 158, 133
+  offset: 0, 0
+  index: -1
+legR_01
+  rotate: true
+  xy: 937, 2
+  size: 203, 140
+  orig: 203, 140
+  offset: 0, 0
+  index: -1
+legR_02
+  rotate: true
+  xy: 1079, 5
+  size: 200, 140
+  orig: 200, 140
+  offset: 0, 0
+  index: -1
+legR_03
+  rotate: false
+  xy: 176, 25
+  size: 175, 91
+  orig: 175, 91
+  offset: 0, 0
+  index: -1
+legR_04
+  rotate: false
+  xy: 565, 2
+  size: 165, 126
+  orig: 165, 126
+  offset: 0, 0
+  index: -1
+spider_body
+  rotate: false
+  xy: 309, 130
+  size: 315, 319
+  orig: 315, 319
+  offset: 0, 0
+  index: -1
+spider_glow
+  rotate: true
+  xy: 2, 118
+  size: 331, 305
+  orig: 364, 333
+  offset: 11, 18
+  index: -1
+string
+  rotate: false
+  xy: 176, 2
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1

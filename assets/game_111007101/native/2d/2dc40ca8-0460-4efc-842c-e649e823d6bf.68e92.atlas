@@ -1,0 +1,111 @@
+
+kaishi.png
+size: 918,374
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuanhuanlsetexiao/leaf_particle_00
+  rotate: false
+  xy: 798, 24
+  size: 30, 33
+  orig: 261, 293
+  offset: 118, 154
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_01
+  rotate: true
+  xy: 748, 13
+  size: 71, 48
+  orig: 261, 293
+  offset: 96, 152
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_02
+  rotate: false
+  xy: 641, 16
+  size: 105, 68
+  orig: 261, 293
+  offset: 77, 142
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_03
+  rotate: true
+  xy: 826, 242
+  size: 130, 88
+  orig: 261, 293
+  offset: 63, 129
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_04
+  rotate: true
+  xy: 808, 59
+  size: 150, 108
+  orig: 261, 293
+  offset: 52, 114
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_05
+  rotate: false
+  xy: 641, 86
+  size: 165, 123
+  orig: 261, 293
+  offset: 44, 103
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_06
+  rotate: true
+  xy: 502, 22
+  size: 178, 137
+  orig: 261, 293
+  offset: 37, 93
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_07
+  rotate: true
+  xy: 350, 10
+  size: 189, 150
+  orig: 261, 293
+  offset: 31, 84
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_08
+  rotate: false
+  xy: 626, 211
+  size: 198, 161
+  orig: 261, 293
+  offset: 26, 76
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_09
+  rotate: false
+  xy: 222, 201
+  size: 207, 171
+  orig: 261, 293
+  offset: 21, 69
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_10
+  rotate: false
+  xy: 2, 3
+  size: 213, 180
+  orig: 261, 293
+  offset: 18, 63
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_11
+  rotate: false
+  xy: 2, 185
+  size: 218, 187
+  orig: 261, 293
+  offset: 15, 58
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_12
+  rotate: true
+  xy: 431, 202
+  size: 170, 193
+  orig: 261, 293
+  offset: 14, 54
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_13
+  rotate: false
+  xy: 222, 2
+  size: 126, 197
+  orig: 261, 293
+  offset: 59, 50
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_14
+  rotate: true
+  xy: 502, 4
+  size: 16, 95
+  orig: 261, 293
+  offset: 159, 76
+  index: -1

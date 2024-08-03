@@ -1,0 +1,139 @@
+
+duobao.jpg
+size: 1107,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duobaobeijngtexiao/scatter_bg
+  rotate: true
+  xy: 2, 158
+  size: 109, 381
+  orig: 109, 381
+  offset: 0, 0
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_01
+  rotate: false
+  xy: 2, 8
+  size: 15, 15
+  orig: 167, 167
+  offset: 66, 78
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_02
+  rotate: false
+  xy: 1068, 230
+  size: 37, 37
+  orig: 167, 167
+  offset: 63, 78
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_03
+  rotate: true
+  xy: 1039, 2
+  size: 45, 47
+  orig: 167, 167
+  offset: 59, 70
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_04
+  rotate: false
+  xy: 1039, 49
+  size: 59, 87
+  orig: 167, 167
+  offset: 56, 60
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_05
+  rotate: false
+  xy: 958, 31
+  size: 79, 105
+  orig: 167, 167
+  offset: 56, 49
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_06
+  rotate: false
+  xy: 276, 31
+  size: 103, 125
+  orig: 167, 167
+  offset: 36, 28
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_07
+  rotate: false
+  xy: 784, 5
+  size: 125, 129
+  orig: 167, 167
+  offset: 19, 24
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_08
+  rotate: false
+  xy: 651, 5
+  size: 131, 129
+  orig: 167, 167
+  offset: 18, 23
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_09
+  rotate: false
+  xy: 933, 138
+  size: 133, 129
+  orig: 167, 167
+  offset: 17, 22
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_10
+  rotate: false
+  xy: 381, 7
+  size: 133, 129
+  orig: 167, 167
+  offset: 18, 20
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_11
+  rotate: false
+  xy: 2, 25
+  size: 135, 131
+  orig: 167, 167
+  offset: 17, 19
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_12
+  rotate: false
+  xy: 385, 138
+  size: 135, 129
+  orig: 167, 167
+  offset: 17, 19
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_13
+  rotate: false
+  xy: 139, 25
+  size: 135, 131
+  orig: 167, 167
+  offset: 18, 18
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_14
+  rotate: false
+  xy: 522, 136
+  size: 135, 131
+  orig: 167, 167
+  offset: 18, 18
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_15
+  rotate: false
+  xy: 659, 136
+  size: 135, 131
+  orig: 167, 167
+  offset: 18, 18
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_16
+  rotate: false
+  xy: 796, 136
+  size: 135, 131
+  orig: 167, 167
+  offset: 18, 19
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_17
+  rotate: false
+  xy: 516, 5
+  size: 133, 129
+  orig: 167, 167
+  offset: 18, 20
+  index: -1
+xuanzhuananniutexiao/fast_spin_c_18
+  rotate: false
+  xy: 911, 15
+  size: 45, 119
+  orig: 167, 167
+  offset: 20, 29
+  index: -1

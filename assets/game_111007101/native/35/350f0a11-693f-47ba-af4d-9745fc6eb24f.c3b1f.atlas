@@ -1,0 +1,244 @@
+
+symbol_wild.png
+size: 472,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_L
+  rotate: true
+  xy: 432, 257
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 154, 116
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+fx_eye_L
+  rotate: true
+  xy: 447, 445
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+fx_eye_R
+  rotate: false
+  xy: 432, 224
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+fx_fire_explo/fx_fire_expo_00
+  rotate: true
+  xy: 296, 130
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+fx_fire_explo/fx_fire_expo_02
+  rotate: true
+  xy: 2, 2
+  size: 115, 48
+  orig: 115, 48
+  offset: 0, 0
+  index: -1
+fx_fire_explo/fx_fire_expo_04
+  rotate: true
+  xy: 274, 206
+  size: 136, 59
+  orig: 136, 59
+  offset: 0, 0
+  index: -1
+fx_fire_explo/fx_fire_expo_06
+  rotate: true
+  xy: 210, 200
+  size: 142, 62
+  orig: 142, 62
+  offset: 0, 0
+  index: -1
+fx_fire_explo/fx_fire_expo_08
+  rotate: false
+  xy: 197, 344
+  size: 146, 62
+  orig: 146, 62
+  offset: 0, 0
+  index: -1
+fx_fire_explo/fx_fire_expo_10
+  rotate: false
+  xy: 197, 408
+  size: 149, 62
+  orig: 149, 62
+  offset: 0, 0
+  index: -1
+fx_fire_explo/fx_fire_expo_12
+  rotate: false
+  xy: 2, 119
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+fx_fire_explo/fx_fire_expo_14
+  rotate: true
+  xy: 154, 171
+  size: 150, 54
+  orig: 150, 54
+  offset: 0, 0
+  index: -1
+fx_fire_explo/fx_fire_expo_16
+  rotate: true
+  xy: 335, 199
+  size: 143, 48
+  orig: 143, 48
+  offset: 0, 0
+  index: -1
+fx_glow_zh
+  rotate: false
+  xy: 348, 394
+  size: 97, 76
+  orig: 97, 76
+  offset: 0, 0
+  index: -1
+fx_nose
+  rotate: false
+  xy: 427, 134
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+fx_particles
+  rotate: true
+  xy: 384, 132
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+fx_sparks
+  rotate: true
+  xy: 298, 103
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+fx_wild_glow_zh
+  rotate: true
+  xy: 52, 7
+  size: 110, 65
+  orig: 110, 65
+  offset: 0, 0
+  index: -1
+fx_wild_zh_bai
+  rotate: false
+  xy: 427, 149
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+fx_wild_zh_da
+  rotate: false
+  xy: 432, 300
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 181
+  size: 150, 140
+  orig: 150, 140
+  offset: 0, 0
+  index: -1
+leaf_01
+  rotate: false
+  xy: 345, 344
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+leaf_02
+  rotate: true
+  xy: 333, 129
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+leaf_03
+  rotate: true
+  xy: 419, 344
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+leaf_back
+  rotate: true
+  xy: 385, 205
+  size: 137, 45
+  orig: 137, 45
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 447, 426
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+pumpkin
+  rotate: false
+  xy: 2, 323
+  size: 193, 147
+  orig: 193, 147
+  offset: 0, 0
+  index: -1
+pumpkin_02
+  rotate: true
+  xy: 153, 19
+  size: 95, 75
+  orig: 95, 75
+  offset: 0, 0
+  index: -1
+stem_01
+  rotate: false
+  xy: 432, 195
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+stem_02
+  rotate: true
+  xy: 230, 2
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+stem_03
+  rotate: false
+  xy: 262, 10
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+vine
+  rotate: true
+  xy: 119, 8
+  size: 109, 32
+  orig: 109, 32
+  offset: 0, 0
+  index: -1
+wild_zh_bai
+  rotate: false
+  xy: 224, 119
+  size: 70, 79
+  orig: 70, 79
+  offset: 0, 0
+  index: -1
+wild_zh_da
+  rotate: false
+  xy: 230, 41
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+symbol_scatter.png
+size: 388,394
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_index
+  rotate: true
+  xy: 169, 100
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+L_pinky
+  rotate: false
+  xy: 375, 378
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+L_ring
+  rotate: false
+  xy: 171, 81
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+L_thumb
+  rotate: false
+  xy: 184, 103
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+arm_L
+  rotate: true
+  xy: 57, 2
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 222, 198
+  size: 151, 194
+  orig: 151, 194
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 314, 44
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 169, 122
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+fx_scatter
+  rotate: true
+  xy: 57, 76
+  size: 107, 37
+  orig: 107, 37
+  offset: 0, 0
+  index: -1
+fx_scatter_zoom_00
+  rotate: true
+  xy: 2, 3
+  size: 180, 53
+  orig: 180, 53
+  offset: 0, 0
+  index: -1
+fx_zoom_00
+  rotate: false
+  xy: 2, 185
+  size: 218, 207
+  orig: 218, 207
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 222, 68
+  size: 128, 130
+  orig: 131, 136
+  offset: 3, 6
+  index: -1
+lips
+  rotate: false
+  xy: 314, 9
+  size: 67, 26
+  orig: 67, 26
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 96, 99
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+palm_L
+  rotate: false
+  xy: 96, 68
+  size: 25, 29
+  orig: 25, 30
+  offset: 0, 1
+  index: -1
+scatter
+  rotate: false
+  xy: 114, 5
+  size: 198, 61
+  orig: 198, 61
+  offset: 0, 0
+  index: -1
+scatter_sha
+  rotate: true
+  xy: 354, 61
+  size: 97, 31
+  orig: 99, 33
+  offset: 1, 1
+  index: -1
+tail_01
+  rotate: true
+  xy: 171, 144
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+tail_02
+  rotate: false
+  xy: 354, 160
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+tail_03
+  rotate: false
+  xy: 353, 37
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 123, 70
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
